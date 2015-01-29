@@ -10,4 +10,4 @@ Build webrtc:
   - In order to build the webrtc, please see the instruction at http://ninjanetic.com/how-to-get-started-with-webrtc-and-ios-without-wasting-10-hours-of-your-life/.
   - Report new webrtc issues at https://code.google.com/p/webrtc/issues/list
 
-I ues webrtc r8144 in this sample project.
+I use webrtc r8144 in this sample project.
